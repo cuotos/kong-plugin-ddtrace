@@ -393,6 +393,7 @@ if subsystem == "http" then
 end
 
 function DatadogTraceHandler:log(conf) -- luacheck: ignore 212
+    kong.log.info("DP WE ARE HERE!")
     local ok, message = pcall(function()
         self:log_p(conf)
     end)
