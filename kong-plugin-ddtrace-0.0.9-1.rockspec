@@ -3,7 +3,7 @@ version = "0.0.9-1"
 
 source = {
     url = "https://github.com/cuotos/kong-plugin-ddtrace/archive/v0.0.9-1.zip",
-    dir = "kong-plugin-ddtrace-0.0.9-1p",
+    dir = "kong-plugin-ddtrace-0.0.9-1",
 }
 
 description = {
