@@ -2,7 +2,7 @@ package = "kong-plugin-ddtrace"
 version = "0.2.0-1"
 
 source = {
-    url = "https://github.com/datadog/kong-plugin-ddtrace/archive/v0.2.0.zip",
+    url = "https://github.com/cuotos/kong-plugin-ddtrace/archive/v0.2.0.zip",
     dir = "kong-plugin-ddtrace-0.2.0",
 }
 
